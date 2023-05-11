@@ -530,6 +530,8 @@ a {
   display: grid;
   margin-right: 2vw;
   margin-left: 2vw;
+  margin-top: 2vw;
+  margin-bottom: 2vw;
   justify-items: stretch;
   grid-auto-columns: 1fr;
   grid-column-gap: 2vw;
@@ -557,7 +559,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 16px;
-  box-shadow: 4px 4px 32px 0 rgb(58 132 41 / 50%);
+  box-shadow: 4px 4px 32px 0 rgb(72 101 59 / 50%);
 }
 
 .grid-menu-item-image {
@@ -573,7 +575,8 @@ a {
 }
 
 .navbar-wordmark {
-  height: 48px;
+  height: 144px;
+  width: 144px;
 }
 
 .search {
