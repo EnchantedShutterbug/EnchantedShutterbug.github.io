@@ -10,6 +10,9 @@
 /* Hide the images by default */
 .mySlides {
   display: none;
+  max-height: 1080px;
+  max-width: 1080px;
+  margin: auto;
 }
 
 /* Add a pointer when hovering over the thumbnail images */
@@ -73,7 +76,9 @@
 /* Six columns side by side */
 .column {
   float: left;
-  width: 16.66%;
+  width: 235px;
+  height: 235px;
+  /*width: 16.66%;*/
 }
 
 /* Add a transparency effect for thumnbail images */
