@@ -1814,14 +1814,14 @@ a {
     grid-template-columns: 1fr;
   }
 
-  .column {
+  .column-webflow {
     float: left;
     width: 50%;
     padding: 5px;
   }
 
 
-  .row::after {
+  .row-webflow::after {
     content: "";
     clear: both;
     display: table;
