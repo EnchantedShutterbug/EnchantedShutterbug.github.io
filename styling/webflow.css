@@ -1174,11 +1174,12 @@ a {
 /* added margin auto and text align to make the page more mobile friendly */
 .container {
   width: 92vw;
-  max-width: 1600px;
+  max-width: 1080px;
   margin-right: 4vw;
   margin-left: 4vw;
   margin: auto;
   text-align: center;
+  min-height: 240px;
 }
 
 .item-metadata-container {
