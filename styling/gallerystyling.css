@@ -26,7 +26,7 @@
   position: absolute;
   top: 40%;
   left: 0%; /* testing alignment */
-  width: auto;
+  width: 45px;
   padding: 16px;
   margin-top: -50px;
   color: white;
@@ -40,8 +40,8 @@
   cursor: pointer;
   position: absolute;
   top: 40%;
-  left: 95%; /* testing alignment */
-  width: auto;
+  /*left: 95%; testing alignment */
+  width: 45px;
   padding: 16px;
   margin-top: -50px;
   color: white;
