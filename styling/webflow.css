@@ -1816,7 +1816,7 @@ a {
 
   .column-webflow {
     float: left;
-    width: 50%;
+    /*width: 50%;*/
     padding: 5px;
   }
 
