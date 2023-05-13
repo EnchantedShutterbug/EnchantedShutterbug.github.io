@@ -1171,11 +1171,14 @@ a {
   align-self: center;
 }
 
+/* added margin auto and text align to make the page more mobile friendly */
 .container {
   width: 92vw;
   max-width: 1600px;
   margin-right: 4vw;
   margin-left: 4vw;
+  margin: auto;
+  text-align: center;
 }
 
 .item-metadata-container {
