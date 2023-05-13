@@ -91,9 +91,8 @@
 /* Six columns side by side */
 .column {
   float: left;
-  width: 235px;
-  height: 235px;
-  width: 25%;
+  /*padding-bottom: ##%; for aspect ratios 16:9 use 56.25%, 4:3 use 75%, 3:2 use 66.66%, 8:5 use 62.5% */
+  width: 25%; /* adjust your width to fit items square */
 }
 
 /* Add a transparency effect for thumnbail images */
